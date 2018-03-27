@@ -1,0 +1,3 @@
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Release\ResolveAssemblyReference.cache
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Release\WindowsApplication1.Resources.resources
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Release\CLIENTES.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Debug\ResolveAssemblyReference.cache
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Debug\WindowsApplication1.Resources.resources
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Debug\CLIENTES.vbproj.GenerateResource.Cache
+C:\wamp\www\Gema\GEMA CLIENTES\bin\Debug\CLIENTES.exe
+C:\wamp\www\Gema\GEMA CLIENTES\bin\Debug\CLIENTES.pdb
+C:\wamp\www\Gema\GEMA CLIENTES\bin\Debug\CLIENTES.xml
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Debug\CLIENTES.exe
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Debug\CLIENTES.xml
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Debug\CLIENTES.pdb
+C:\wamp\www\Gema\GEMA CLIENTES\obj\Debug\WindowsApplication1.clientes1.resources
+C:\wamp\www\Gema\GEMA CLIENTES\bin\Debug\GEMA_CLIENTES.mdb
+C:\wamp\www\Gema\GEMA CLIENTES\bin\Debug\CLIENTES.exe.config
