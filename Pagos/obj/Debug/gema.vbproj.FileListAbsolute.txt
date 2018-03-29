@@ -1,0 +1,45 @@
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\bin\Debug\gema.exe
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\bin\Debug\gema.pdb
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\bin\Debug\gema.xml
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\obj\Debug\gema.Resources.resources
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\obj\Debug\gema.vbproj.GenerateResource.Cache
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\obj\Debug\gema.exe
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\obj\Debug\gema.xml
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\obj\Debug\gema.pdb
+C:\Users\Borg\AppData\Local\Temporary Projects\gema\obj\Debug\gema.frmPagos.resources
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.exe
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.xml
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.pdb
+F:\Cronosoft\gema\gema\gema\obj\Debug\ResolveAssemblyReference.cache
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.frmRecibo.resources
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.Resources.resources
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.vbproj.GenerateResource.Cache
+F:\Cronosoft\gema\gema\gema\bin\Debug\gema.exe
+F:\Cronosoft\gema\gema\gema\bin\Debug\gema.pdb
+F:\Cronosoft\gema\gema\gema\bin\Debug\gema.xml
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.FrmPagos.resources
+H:\Cronosoft\gema\gema\gema\obj\Debug\gema.exe
+H:\Cronosoft\gema\gema\gema\obj\Debug\gema.xml
+H:\Cronosoft\gema\gema\gema\obj\Debug\gema.pdb
+H:\Cronosoft\gema\gema\gema\obj\Debug\ResolveAssemblyReference.cache
+H:\Cronosoft\gema\gema\gema\obj\Debug\gema.FrmPagos.resources
+H:\Cronosoft\gema\gema\gema\obj\Debug\gema.frmRecibo.resources
+H:\Cronosoft\gema\gema\gema\obj\Debug\gema.Resources.resources
+H:\Cronosoft\gema\gema\gema\obj\Debug\gema.vbproj.GenerateResource.Cache
+H:\Cronosoft\gema\gema\gema\bin\Debug\gema.exe
+H:\Cronosoft\gema\gema\gema\bin\Debug\gema.pdb
+H:\Cronosoft\gema\gema\gema\bin\Debug\gema.xml
+F:\Cronosoft\gema\gema\gema\obj\Debug\gema.FrmInicio.resources
+E:\gema\obj\Debug\gema.exe
+E:\gema\obj\Debug\gema.xml
+E:\gema\obj\Debug\gema.pdb
+E:\gema\bin\Debug\gema.exe
+E:\gema\bin\Debug\gema.pdb
+E:\gema\bin\Debug\gema.xml
+E:\gema\obj\Debug\ResolveAssemblyReference.cache
+E:\gema\obj\Debug\gema.FrmInicio.resources
+E:\gema\obj\Debug\gema.FrmPagos.resources
+E:\gema\obj\Debug\gema.frmRecibo.resources
+E:\gema\obj\Debug\gema.Resources.resources
+E:\gema\obj\Debug\gema.vbproj.GenerateResource.Cache
